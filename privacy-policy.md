@@ -1,6 +1,6 @@
 # Privacy Policy for External Do-Follow Links Spotter
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-May-17
 
 External Do-Follow Links Spotter is a Chrome Extension designed to help users visually identify external do-follow links on any webpage. We value your privacy and are committed to protecting it.
 
@@ -54,7 +54,7 @@ We may update this Privacy Policy from time to time. If changes are made, we wil
 
 If you have any questions or concerns about this privacy policy or the extension, feel free to contact us:
 
-**Email:** [your.email@example.com]
+**Email:** nirmitha.withana@gmail.com
 
 ---
 
